@@ -13,4 +13,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![Uploading Screen Shot 2024-01-14 at 10.28.33.png…]()
+![Screen Shot 2024-01-14 at 10 28 33](https://github.com/quangtn266/InvoiceExtractionBot/assets/50879191/61279b74-cb99-40a4-83f8-a715bf775730)
