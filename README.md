@@ -12,3 +12,5 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+![Uploading Screen Shot 2024-01-14 at 10.28.33.png…]()
